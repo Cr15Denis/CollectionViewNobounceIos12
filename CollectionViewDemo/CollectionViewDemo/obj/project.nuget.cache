@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJDRL9h+02MV6wPnr9Wr0jk3zuNLKJtFoPJaXszhqsEYYou1y3OpfQLS7TjOLrkrAC87S7QbKPVwvH/mFI5CrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gudiel\\source\\repos\\CollectionViewDemo\\CollectionViewDemo\\CollectionViewDemo\\CollectionViewDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gudiel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gudiel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Gudiel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Gudiel\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Gudiel\\.nuget\\packages\\xamarin.forms\\4.8.0.1534\\xamarin.forms.4.8.0.1534.nupkg.sha512"
+  ],
+  "logs": []
+}

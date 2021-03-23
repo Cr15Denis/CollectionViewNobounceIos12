@@ -1,0 +1,14 @@
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\bin\Debug\netstandard2.0\CollectionViewDemo.deps.json
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\bin\Debug\netstandard2.0\CollectionViewDemo.dll
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\bin\Debug\netstandard2.0\ref\CollectionViewDemo.dll
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\bin\Debug\netstandard2.0\CollectionViewDemo.pdb
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\CollectionViewDemo.AssemblyInfoInputs.cache
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\CollectionViewDemo.AssemblyInfo.cs
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\CollectionViewDemo.csproj.CoreCompileInputs.cache
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\CollectionViewDemo.dll
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\ref\CollectionViewDemo.dll
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\CollectionViewDemo.pdb
+C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\CollectionViewDemo.csprojAssemblyReference.cache
