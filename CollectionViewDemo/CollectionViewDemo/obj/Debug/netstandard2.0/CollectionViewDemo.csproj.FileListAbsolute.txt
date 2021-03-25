@@ -11,4 +11,3 @@ C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionVie
 C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\CollectionViewDemo.dll
 C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\ref\CollectionViewDemo.dll
 C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\CollectionViewDemo.pdb
-C:\Users\Gudiel\source\repos\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo\obj\Debug\netstandard2.0\CollectionViewDemo.csprojAssemblyReference.cache

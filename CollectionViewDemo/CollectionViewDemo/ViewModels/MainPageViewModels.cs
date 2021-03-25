@@ -17,168 +17,168 @@ namespace CollectionViewDemo.ViewModels
                 new Product
                 {
                     Name = "Yogurt",
-                    Price = 60.0m,
+                    Price = 1000.00m,
                     Image = "yogurt.png",
                     
                 },
                 new Product
                 {
                     Name = "Watermelon",
-                    Price = 30.0m,
+                    Price = 30000.00m,
                     Image = "watermelon.png",
                    
                 },
                 new Product
                 {
                     Name = "Water Bottle",
-                    Price = 80.0m,
+                    Price = 800000.00m,
                     Image = "water_bottle.png",
                     
                 },
                 new Product
                 {
                     Name = "Tomato",
-                    Price = 120.0m,
+                    Price = 1000000.00m,
                     Image = "tomato.png",
                     
                 },
                 new Product
                 {
                     Name = "Tea",
-                    Price = 65.0m,
+                    Price = 65.00m,
                     Image = "tea_bag.png",
                    
                 },
                 new Product
                 {
                     Name = "Sparkling Drink",
-                    Price = 35.0m,
+                    Price = 35.00m,
                     Image = "sparkling_drink.png",
                    
                 },
                 new Product
                 {
                     Name = "Spaguetti",
-                    Price = 15.0m,
+                    Price = 15.00m,
                     Image = "spaguetti.png",
                    
                 },
                 new Product
                 {
                     Name = "Cream",
-                    Price = 48.0m,
+                    Price = 48.00m,
                     Image = "cream.png",
                     
                 },
                 new Product
                 {
                     Name = "Snack",
-                    Price = 25.0m,
+                    Price = 25.00m,
                     Image = "snack.png",
                    
                 },
                 new Product
                 {
                     Name = "Shrimp",
-                    Price = 300.0m,
+                    Price = 300.00m,
                     Image = "shrimp.png",
                     
                 },
                 new Product
                 {
                     Name = "Seasoning",
-                    Price = 185.0m,
+                    Price = 185.00m,
                     Image = "seasoning.png",
                    
                 },
                 new Product
                 {
                     Name = "Sauce",
-                    Price = 220.0m,
+                    Price = 220.00m,
                     Image = "sauce.png",
                     
                 },
                 new Product
                 {
                     Name = "Rice",
-                    Price = 48.0m,
+                    Price = 48.00m,
                     Image = "rice.png",
                     
                 },
                 new Product
                 {
                     Name = "Peas",
-                    Price = 114.0m,
+                    Price = 114.00m,
                     Image = "peas.png",
                     
                 },
                 new Product
                 {
                     Name = "Ham",
-                    Price = 215.0m,
+                    Price = 215.00m,
                     Image = "ham_1.png",
                    
                 },
                 new Product
                 {
                     Name = "Chicken Leg",
-                    Price = 142.0m,
+                    Price = 142.00m,
                     Image = "chicken_leg.png",
                     
                 },
                 new Product
                 {
                     Name = "Pizza",
-                    Price = 321.0m,
+                    Price = 321.00m,
                     Image = "pizza.png",
                     
                 },
                 new Product
                 {
                     Name = "Pineapple",
-                    Price = 49.0m,
+                    Price = 49.00m,
                     Image = "pineapple.png",
                    
                 },
                 new Product
                 {
                     Name = "Pepper",
-                    Price = 60.0m,
+                    Price = 60.00m,
                     Image = "pepper.png",
                    
                 },
                 new Product
                 {
                     Name = "Pasta",
-                    Price = 52.0m,
+                    Price = 52.00m,
                     Image = "pasta.png",
                     
                 },
                 new Product
                 {
                     Name = "Oil Bottle",
-                    Price = 152.0m,
+                    Price = 152.00m,
                     Image = "oil_bottle",
                     
                 },
                 new Product
                 {
                     Name = "Mushroom",
-                    Price = 28.0m,
+                    Price = 28.00m,
                     Image = "mushroom.png",
                     
                 },
                 new Product
                 {
                     Name = "Milk Bottle",
-                    Price = 85.0m,
+                    Price = 85.00m,
                     Image = "milk_bottle.png",
                     
                 },
                 new Product
                 {
                     Name = "Meat",
-                    Price = 450.0m,
+                    Price = 450.00m,
                     Image = "meat.png",
                     
                 },

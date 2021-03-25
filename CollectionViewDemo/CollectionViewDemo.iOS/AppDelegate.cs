@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 
 using Foundation;
@@ -22,7 +23,8 @@ namespace CollectionViewDemo.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
-            global::Xamarin.Forms.Forms.Init();
+            CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("es-GT");
+            global::Xamarin.Forms.Forms.Init();            
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);
